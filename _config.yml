@@ -74,7 +74,7 @@ github:
 #Stackoverflow flair is optional
 stackoverflow:
    profileurl: http://stackoverflow.com/users/3196851/sudhar
-   flairimageurl: https://i.stack.imgur.com/jirzw.jpg
+   flairimageurl: http://stackoverflow.com/users/flair/3196851.png
 
 #An additional info freetext section is optional at the bottom of the page - can be text or HTML
 additionalinfo: |
